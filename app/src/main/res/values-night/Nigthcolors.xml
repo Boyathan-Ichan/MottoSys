@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1d4786</color> <!-- Mantenemos el azul como identidad -->
+    <color name="primary_dark">#0D264A</color>
+    <color name="background">#121212</color> <!-- Negro material estándar -->
+    <color name="text_main">#F5F5F5</color>
+    <color name="text_secondary">#BDBDBD</color>
+</resources>
